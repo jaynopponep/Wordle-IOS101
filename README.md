@@ -33,7 +33,7 @@ Things got better when I actually read the docs and tried to understand what eac
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jay Noppone Pornpitaksuk]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
