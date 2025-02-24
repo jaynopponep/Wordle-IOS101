@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Notes
 
 Was not reading documentation at my first attempt at this so made many mistakes, and was clueless on what I was doing. </br>
-Things got better when I actually read the docs and tried to understand what each thing did.
+Things got better when I actually read the docs and tried to understand what each function or method did, or what a closure does and how to use it properly.
 
 ![Wordle Demo](WordleDemo.gif)
 
