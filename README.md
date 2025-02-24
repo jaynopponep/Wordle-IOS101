@@ -26,7 +26,10 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Was not reading documentation at my first attempt at this so made many mistakes, and was clueless on what I was doing. </br>
+Things got better when I actually read the docs and tried to understand what each thing did.
+
+![Wordle Demo](WordleDemo.gif)
 
 ## License
 
